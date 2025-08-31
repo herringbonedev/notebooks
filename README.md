@@ -1,2 +1,3 @@
-# notebooks
-Notebooks for interacting with Herringbone
+# Herringbone Notebooks
+
+Here you will find a collection of notebooks to use for interacting with the various Herringbone components
